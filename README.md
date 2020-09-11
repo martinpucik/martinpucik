@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hello there 👋
+
+
 
 <!--
 **martinpucik/martinpucik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Stats
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=martinpucik&show_icons=true&count_private=true&hide=stars&theme=dracula) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinpucik&layout=compact&hide=css,html,c%2B%2B) 
+
+
