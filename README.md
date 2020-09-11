@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 ## Stats
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=martinpucik&show_icons=true&count_private=true&hide=stars&theme=dracula) 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinpucik&layout=compact&hide=css,html,c%2B%2B) 
 
 
