@@ -1,21 +1,6 @@
 ## Hello there 👋
 
-
-
-<!--
-**martinpucik/martinpucik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm **Martin**, an iOS developer from 🇸🇰 based in 🇨🇿. I'm currently working [@strvcom](https://github.com/strvcom), pushing forward the iOS app for [@classdojo](https://github.com/classdojo)
 
 
 ## Stats
@@ -23,4 +8,4 @@ Here are some ideas to get you started:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=martinpucik&show_icons=true&count_private=true&hide=stars&theme=dracula) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinpucik&layout=compact&hide=css,html,c%2B%2B) 
 
-
+## OSS
